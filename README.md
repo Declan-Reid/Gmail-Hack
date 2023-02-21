@@ -31,7 +31,7 @@ Python script with PySimpleGUI for hack gmail account using brute force attack
 ```
 git clone https://github.com/adrijano/Gmail-Hack.git
 
-cd Bitcoin-wallet-cracker && pip install -r requirements.txt
+cd Gmail-Hack && pip install -r requirements.txt
 
 python gmail_hack.py
 
